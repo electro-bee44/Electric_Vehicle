@@ -1,0 +1,2 @@
+# Electric_Vehicle
+This is a basic model of an Electric Vehicle created using MATLAB-Simulink. Here, real key parameters have been considered to create an optimized model. The electric vehicle's optimal performance has been examined by comparing the vehicle's actual speed and input drive speed. The electric vehicle's energy consumption value is compared based on the battery's initial and final SOC(State of Charge). The effect of different parameters on vehicle performance and energy consumption has also been considered.
